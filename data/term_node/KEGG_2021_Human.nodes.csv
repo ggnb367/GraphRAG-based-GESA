@@ -1,0 +1,321 @@
+id,label,acc,uri
+60b4e25b-c84a-59ab-8a55-37c2f100201a,ABC transporters,map02010,https://www.genome.jp/entry/map02010
+7a27f721-9f0b-58c5-a792-9c946892af90,AGE-RAGE signaling pathway in diabetic complications,map04933,https://www.genome.jp/entry/map04933
+161e8c99-76fc-5fa0-affc-cf612a822e92,AMPK signaling pathway,map04152,https://www.genome.jp/entry/map04152
+030941a8-e511-5927-8310-8a13a583e2e7,Acute myeloid leukemia,map05221,https://www.genome.jp/entry/map05221
+196bd4b2-49e8-522d-af57-d1a2e17506be,Adherens junction,map04520,https://www.genome.jp/entry/map04520
+25e56888-d15b-56f6-a80d-03c17eff06af,Adipocytokine signaling pathway,map04920,https://www.genome.jp/entry/map04920
+acebad49-eb6b-5185-adbc-6ce1a3906701,Adrenergic signaling in cardiomyocytes,map04261,https://www.genome.jp/entry/map04261
+e97a4de4-b463-5ed0-be67-3eeb6027dfc6,African trypanosomiasis,map05143,https://www.genome.jp/entry/map05143
+dfef9e54-a831-554b-9df7-feadd9b9a5c0,"Alanine, aspartate and glutamate metabolism",map00250,https://www.genome.jp/entry/map00250
+8924c926-3889-598e-8d54-8e717f95f40f,Alcoholism,map05034,https://www.genome.jp/entry/map05034
+b47b0aec-5d2b-5ed9-a3e5-c686c7df677c,Aldosterone synthesis and secretion,map04925,https://www.genome.jp/entry/map04925
+fdc028b0-3eba-59a2-b051-704810b33ef2,Aldosterone-regulated sodium reabsorption,map04960,https://www.genome.jp/entry/map04960
+53e36170-d10b-55d4-8a77-e10d0beb28f9,Allograft rejection,map05330,https://www.genome.jp/entry/map05330
+99a39699-19f9-59c6-a9ec-c0e415a22daa,Alzheimer disease,map05010,https://www.genome.jp/entry/map05010
+41c7e7b4-8a8b-5142-91db-21fbfda33b7d,Amino sugar and nucleotide sugar metabolism,map00520,https://www.genome.jp/entry/map00520
+29e720d1-6dbb-5b79-a058-12222886fe0c,Aminoacyl-tRNA biosynthesis,map00970,https://www.genome.jp/entry/map00970
+281d2e59-d0d0-5e26-9f8a-2dfdca6185d3,Amoebiasis,map05146,https://www.genome.jp/entry/map05146
+67fd8fad-b52d-5746-aaa5-492d0f8df1d7,Amphetamine addiction,map05031,https://www.genome.jp/entry/map05031
+2f80ca4c-5bd8-5912-95fb-01dfb68c3830,Amyotrophic lateral sclerosis,map05014,https://www.genome.jp/entry/map05014
+93e1ba04-b71c-5f2c-a836-2feafd72c169,Antigen processing and presentation,map04612,https://www.genome.jp/entry/map04612
+014b15a0-0bde-5b2a-a109-366b8bb3b308,Apelin signaling pathway,map04371,https://www.genome.jp/entry/map04371
+cb7c41a3-35d9-54d4-9e97-90b354e09c21,Apoptosis,map04210,https://www.genome.jp/entry/map04210
+9552ad7d-b598-5582-ab08-047a421ef4a6,Arachidonic acid metabolism,map00590,https://www.genome.jp/entry/map00590
+35e6aadc-7ddc-5124-bdde-50b9ed88915f,Arginine and proline metabolism,map00330,https://www.genome.jp/entry/map00330
+500fab60-cbd6-532c-8dcd-10f673d86f1f,Arginine biosynthesis,map00220,https://www.genome.jp/entry/map00220
+569bf526-3b12-5781-941a-ffe1d43f53f7,Arrhythmogenic right ventricular cardiomyopathy,map05412,https://www.genome.jp/entry/map05412
+76bd4741-2d62-5413-ad40-eb7254669b87,Ascorbate and aldarate metabolism,map00053,https://www.genome.jp/entry/map00053
+68c7b51a-adc9-5d09-97d8-4886b83c28b6,Asthma,map05310,https://www.genome.jp/entry/map05310
+ce7eaf40-ec72-5210-a70a-3f2147f36930,Autoimmune thyroid disease,map05320,https://www.genome.jp/entry/map05320
+6816fc28-bb2e-5e3b-a121-ab4ab8fabcda,Autophagy,Autophagy,
+c8920b1c-cfa2-5ab4-9523-ee14754672a4,Axon guidance,map04360,https://www.genome.jp/entry/map04360
+249db30e-fbef-53f0-af25-b510dd6af25c,B cell receptor signaling pathway,map04662,https://www.genome.jp/entry/map04662
+b36d2527-fc20-5169-b34d-cb1cca2f0edb,Bacterial invasion of epithelial cells,map05100,https://www.genome.jp/entry/map05100
+75a943ac-2565-5ebd-8b42-97d1d5d31a5f,Basal cell carcinoma,map05217,https://www.genome.jp/entry/map05217
+6577e346-34a7-5aa5-8d08-f62b45efe0d0,Basal transcription factors,map03022,https://www.genome.jp/entry/map03022
+e0d8d3a9-3095-592f-acc0-17d8cc1195b4,Base excision repair,map03410,https://www.genome.jp/entry/map03410
+2157cfb3-63b6-5680-bc20-bb6a4ca26135,Bile secretion,map04976,https://www.genome.jp/entry/map04976
+48319460-eb28-513e-b4ae-91af1af3ce17,Biosynthesis of unsaturated fatty acids,map01040,https://www.genome.jp/entry/map01040
+d0fb1641-8258-5d95-b0da-452295173be9,Bladder cancer,map05219,https://www.genome.jp/entry/map05219
+bd68c101-4565-573e-9cbf-9f6886164be8,Breast cancer,map05224,https://www.genome.jp/entry/map05224
+7558a9b1-29e6-5306-83e9-b7191fa64b82,Butanoate metabolism,map00650,https://www.genome.jp/entry/map00650
+44039325-0035-50bb-ace6-beda242d9cfd,C-type lectin receptor signaling pathway,map04625,https://www.genome.jp/entry/map04625
+7262919d-ce87-5d62-ba3b-3fc0fced4ffd,Caffeine metabolism,map00232,https://www.genome.jp/entry/map00232
+8040ef78-0180-5065-b03b-c5272a8a2887,Calcium signaling pathway,map04020,https://www.genome.jp/entry/map04020
+a8364739-42ba-59d6-8473-15c1cd74e1ad,Carbohydrate digestion and absorption,map04973,https://www.genome.jp/entry/map04973
+d0cca834-0d29-560f-a891-af2e065d1f8a,Cardiac muscle contraction,map04260,https://www.genome.jp/entry/map04260
+03cb7b91-7f19-5ac5-aead-5a831f37cad4,Cell adhesion molecules,map04514,https://www.genome.jp/entry/map04514
+20aa1c69-f0c5-5ada-9c0b-53117f717971,Cell cycle,map04110,https://www.genome.jp/entry/map04110
+3c41f411-11b6-524d-b361-f629f0f288d5,Cellular senescence,map04218,https://www.genome.jp/entry/map04218
+cf75ac19-ad09-53d1-bce4-243c74f77c11,Central carbon metabolism in cancer,map05230,https://www.genome.jp/entry/map05230
+50706c3a-84cf-563f-a025-8ec9edfd496b,Chagas disease,map05142,https://www.genome.jp/entry/map05142
+a2d23861-027c-5b22-b55a-abd1120369d4,Chemical carcinogenesis,Chemical carcinogenesis,
+b3678831-9f55-5130-9397-220d2944d2ca,Chemokine signaling pathway,map04062,https://www.genome.jp/entry/map04062
+d8736c7a-d68c-5db8-aebc-9b1ecd590575,Cholesterol metabolism,map04979,https://www.genome.jp/entry/map04979
+5fec04bc-08b0-5220-bcd8-47b0fd63910e,Choline metabolism in cancer,map05231,https://www.genome.jp/entry/map05231
+11592727-fbc7-5097-8798-c5a84b258727,Cholinergic synapse,map04725,https://www.genome.jp/entry/map04725
+c3629f87-66ca-5d31-8687-2638178a8b35,Chronic myeloid leukemia,map05220,https://www.genome.jp/entry/map05220
+afc3a65f-beb3-501f-9ab0-7c37109ceae5,Circadian entrainment,map04713,https://www.genome.jp/entry/map04713
+0622a92b-3fb9-5c72-a344-545d3f4ba035,Circadian rhythm,map04710,https://www.genome.jp/entry/map04710
+d4635d4a-4f2f-528b-9bb0-d0280338f6fe,Citrate cycle (TCA cycle),map00020,https://www.genome.jp/entry/map00020
+e3dc033f-ce74-5299-b153-3164fd3b4da9,Cocaine addiction,map05030,https://www.genome.jp/entry/map05030
+5af45226-be65-5b57-ab42-51f4eb3c3206,Collecting duct acid secretion,map04966,https://www.genome.jp/entry/map04966
+b8c95dfa-49bb-5aea-9ac9-47ed34710d01,Colorectal cancer,map05210,https://www.genome.jp/entry/map05210
+125a3747-86fd-582c-a1af-a8021553604a,Complement and coagulation cascades,map04610,https://www.genome.jp/entry/map04610
+af837e67-8100-59e6-b026-5930f95e017d,Coronavirus disease,Coronavirus disease,
+f8f7c7ea-6332-534a-ac2e-b6a230654196,Cortisol synthesis and secretion,map04927,https://www.genome.jp/entry/map04927
+b1fd1aa8-1fc6-5539-adac-192bc9ace8d6,Cushing syndrome,map04934,https://www.genome.jp/entry/map04934
+281efe83-67c8-55ab-beb8-822a3cba7a4b,Cysteine and methionine metabolism,map00270,https://www.genome.jp/entry/map00270
+236e2f12-9635-593d-8203-7efe09b815c8,Cytokine-cytokine receptor interaction,map04060,https://www.genome.jp/entry/map04060
+3e5c3697-31c1-5674-85f2-ada12b834766,Cytosolic DNA-sensing pathway,map04623,https://www.genome.jp/entry/map04623
+dee93de4-987b-54f8-814c-84f92b1c2ec7,D-Glutamine and D-glutamate metabolism,D-Glutamine and D-glutamate metabolism,
+4dfb069e-9e77-512b-bdb5-1d9984c55c6c,DNA replication,map03030,https://www.genome.jp/entry/map03030
+e4ae65d0-5709-54b4-b32b-2a7ee04613ad,Diabetic cardiomyopathy,map05415,https://www.genome.jp/entry/map05415
+e9822e8d-c39c-5903-a55c-53800f50ce56,Dilated cardiomyopathy,map05414,https://www.genome.jp/entry/map05414
+454de0c6-a07f-5d1b-acc8-3af5739f5ba2,Dopaminergic synapse,map04728,https://www.genome.jp/entry/map04728
+01587076-1a56-5d9b-9fed-a086c511b135,Drug metabolism,Drug metabolism,
+f1ce2fe8-201f-5456-a55c-326cde69725f,ECM-receptor interaction,map04512,https://www.genome.jp/entry/map04512
+18645c25-c140-5336-b9ab-75328dbf728e,Endocrine and other factor-regulated calcium reabsorption,map04961,https://www.genome.jp/entry/map04961
+f0d78431-74f1-57e0-8bab-c89f6869c1b6,Endocytosis,map04144,https://www.genome.jp/entry/map04144
+5422fa33-7e84-5c91-a02d-97b4492cb6f5,Endometrial cancer,map05213,https://www.genome.jp/entry/map05213
+8e5887dc-1a6f-564f-ae3d-dd063dc0e669,Epithelial cell signaling in Helicobacter pylori infection,map05120,https://www.genome.jp/entry/map05120
+04040944-7853-501e-aa60-e19617d51a32,Epstein-Barr virus infection,map05169,https://www.genome.jp/entry/map05169
+4cf3e123-9bb3-5ab8-8241-25f4ba28d54e,ErbB signaling pathway,map04012,https://www.genome.jp/entry/map04012
+7f66ad81-b2f0-5541-b4e7-d6ee02038e5f,Estrogen signaling pathway,map04915,https://www.genome.jp/entry/map04915
+4f0b46e8-a402-5627-b76a-3950dea5f2cb,Ether lipid metabolism,map00565,https://www.genome.jp/entry/map00565
+5d6453b8-f5a8-5561-9b2c-7f6b98a69086,Fanconi anemia pathway,map03460,https://www.genome.jp/entry/map03460
+5a416f8b-e267-5b06-ad83-7cd3fd4bfc99,Fat digestion and absorption,map04975,https://www.genome.jp/entry/map04975
+8aca7af1-ceed-5f0c-9122-fc1bbb58c83b,Fatty acid biosynthesis,map00061,https://www.genome.jp/entry/map00061
+4b663c14-87f2-5f74-8b28-5d3f83019a39,Fatty acid degradation,map00071,https://www.genome.jp/entry/map00071
+47bd28d5-7c69-557d-aa5f-57e2c0106650,Fatty acid elongation,map00062,https://www.genome.jp/entry/map00062
+fc35d134-814d-5a7d-839b-75f4e55a4d59,Fc epsilon RI signaling pathway,map04664,https://www.genome.jp/entry/map04664
+81373ee4-afb8-5af2-b69f-7e8d95531688,Fc gamma R-mediated phagocytosis,map04666,https://www.genome.jp/entry/map04666
+892ae55f-19e2-59d0-8a1c-840ffee94e59,Ferroptosis,map04216,https://www.genome.jp/entry/map04216
+d92ac6ad-18c0-593b-b18a-f03c0216e818,Fluid shear stress and atherosclerosis,map05418,https://www.genome.jp/entry/map05418
+9ca96015-be9a-5cee-a733-fca153874ebe,Focal adhesion,map04510,https://www.genome.jp/entry/map04510
+a27a1bba-5138-56c7-9b85-4de941962046,Folate biosynthesis,map00790,https://www.genome.jp/entry/map00790
+9b158bc6-7c3f-5d57-af71-c215b2d49799,FoxO signaling pathway,map04068,https://www.genome.jp/entry/map04068
+986fdc5e-161c-5e6e-aab4-efce6f237534,Fructose and mannose metabolism,map00051,https://www.genome.jp/entry/map00051
+855d523b-6a1f-5011-b034-dbca4f5f1b1c,GABAergic synapse,map04727,https://www.genome.jp/entry/map04727
+63c45a88-51b9-545e-b339-9f11512f9e18,Galactose metabolism,map00052,https://www.genome.jp/entry/map00052
+430ac466-8d5c-57fe-b22a-d95b271d32d4,Gap junction,map04540,https://www.genome.jp/entry/map04540
+df2b4023-9f9a-59ed-b8e9-bec69c9040ca,Gastric acid secretion,map04971,https://www.genome.jp/entry/map04971
+c432169f-3869-5713-82a8-2d174d4f1729,Gastric cancer,map05226,https://www.genome.jp/entry/map05226
+f4abb730-fd4d-54b3-8c5c-3bddafe57467,Glioma,map05214,https://www.genome.jp/entry/map05214
+a7edd451-a513-5afa-8ea0-c8f54de663fc,Glucagon signaling pathway,map04922,https://www.genome.jp/entry/map04922
+d6fe08ba-1558-5966-83a9-6f149af1e583,Glutamatergic synapse,map04724,https://www.genome.jp/entry/map04724
+b331e955-376d-57e7-996b-6365554d824f,Glutathione metabolism,map00480,https://www.genome.jp/entry/map00480
+644cf4af-f558-5485-ab38-5e30003cbd83,Glycerolipid metabolism,map00561,https://www.genome.jp/entry/map00561
+c640a8f5-ea18-50e4-ba01-c783482ec9f7,Glycerophospholipid metabolism,map00564,https://www.genome.jp/entry/map00564
+b6144d0e-ce2e-5922-9857-7d34aaf47814,"Glycine, serine and threonine metabolism",map00260,https://www.genome.jp/entry/map00260
+da594784-d6d8-5b38-bb5c-a43a443df961,Glycolysis / Gluconeogenesis,map00010,https://www.genome.jp/entry/map00010
+dd2afe81-a388-5ff1-a514-a7660a60062f,Glycosaminoglycan biosynthesis,Glycosaminoglycan biosynthesis,
+79ca96c2-3e95-5dfd-bb15-d355b909438f,Glycosaminoglycan degradation,map00531,https://www.genome.jp/entry/map00531
+1baa7880-24f1-5774-b4c3-7bed60d259d7,Glycosphingolipid biosynthesis,Glycosphingolipid biosynthesis,
+4f8d75a9-c0f3-55e9-960f-86f367029cc1,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,map00563,https://www.genome.jp/entry/map00563
+cb058094-9780-5aee-b7a2-e235306f0184,Glyoxylate and dicarboxylate metabolism,map00630,https://www.genome.jp/entry/map00630
+09770d1d-7ba4-5ca8-95ea-25e648508d28,GnRH secretion,map04929,https://www.genome.jp/entry/map04929
+322662cf-73a4-5612-a513-1533ecd7a74b,GnRH signaling pathway,map04912,https://www.genome.jp/entry/map04912
+733d82ed-85e9-5dad-b004-fb9e226689cc,Graft-versus-host disease,map05332,https://www.genome.jp/entry/map05332
+d2e6d63c-4292-526e-abc2-434c25e5887e,"Growth hormone synthesis, secretion and action",map04935,https://www.genome.jp/entry/map04935
+db5cfc05-b133-5ef7-970b-f8bbd1b68682,HIF-1 signaling pathway,map04066,https://www.genome.jp/entry/map04066
+614ee854-ac39-5b21-a2b9-562fd1ea0749,Hedgehog signaling pathway,map04340,https://www.genome.jp/entry/map04340
+773e8cc6-ea13-5097-a128-f3c03022cf51,Hematopoietic cell lineage,map04640,https://www.genome.jp/entry/map04640
+b779cfcd-7c71-5d6b-9bbc-92aca3e57500,Hepatitis B,map05161,https://www.genome.jp/entry/map05161
+015334e2-5fa1-50a1-bc94-7a300847d123,Hepatitis C,map05160,https://www.genome.jp/entry/map05160
+204e10c1-2173-596c-ad3c-ed7d236d0f3c,Hepatocellular carcinoma,map05225,https://www.genome.jp/entry/map05225
+3b87d1fd-306e-5d09-b6c3-2c9a4d4879b9,Herpes simplex virus 1 infection,map05168,https://www.genome.jp/entry/map05168
+c3971d4e-7d0c-5dd9-9511-be79b6746bbf,Hippo signaling pathway,map04390,https://www.genome.jp/entry/map04390
+f08c08d7-f065-507f-87e1-39e70a840ade,Histidine metabolism,map00340,https://www.genome.jp/entry/map00340
+5e0b0164-d39d-58ab-9444-77c0b4d3ff6a,Homologous recombination,map03440,https://www.genome.jp/entry/map03440
+142e2b64-e515-535c-97b1-f81eb622fc3b,Human T-cell leukemia virus 1 infection,map05166,https://www.genome.jp/entry/map05166
+d2289be5-04a0-5fde-aaa2-4119bc1e5129,Human cytomegalovirus infection,map05163,https://www.genome.jp/entry/map05163
+4422ab0f-af38-5a16-be70-3c950b0954bc,Human immunodeficiency virus 1 infection,map05170,https://www.genome.jp/entry/map05170
+2e5220bb-a2b2-5c12-98f6-8f35e7d2e19f,Human papillomavirus infection,map05165,https://www.genome.jp/entry/map05165
+a31b0349-2a94-5d60-8efc-c104279a4daa,Huntington disease,map05016,https://www.genome.jp/entry/map05016
+8e7ccdea-aeff-5e7d-8ead-95763ed1510b,Hypertrophic cardiomyopathy,map05410,https://www.genome.jp/entry/map05410
+30232c6f-66b1-5571-8a5d-453fd6ab0504,IL-17 signaling pathway,map04657,https://www.genome.jp/entry/map04657
+1cd192ba-a576-5245-9947-480919fb27bd,Inflammatory bowel disease,map05321,https://www.genome.jp/entry/map05321
+2818ff62-6bc0-5d79-984c-072c1013bf3a,Inflammatory mediator regulation of TRP channels,map04750,https://www.genome.jp/entry/map04750
+f67ac062-0c0d-5140-a247-7cd999a5e833,Influenza A,map05164,https://www.genome.jp/entry/map05164
+89f4a811-fce0-5538-afa0-4c95304293d2,Inositol phosphate metabolism,map00562,https://www.genome.jp/entry/map00562
+e6928647-67dd-5552-b314-2bd19850389e,Insulin resistance,map04931,https://www.genome.jp/entry/map04931
+40e9e603-693a-5d4f-a31f-7793ca12bd88,Insulin secretion,map04911,https://www.genome.jp/entry/map04911
+3e441f46-9f2f-5ca4-8acb-dcfb34ca7cf9,Insulin signaling pathway,map04910,https://www.genome.jp/entry/map04910
+a6172845-c92d-515d-9917-a1290cbacadb,Intestinal immune network for IgA production,map04672,https://www.genome.jp/entry/map04672
+9a3a5128-a097-5fab-8532-ffe5e1ef14e3,JAK-STAT signaling pathway,map04630,https://www.genome.jp/entry/map04630
+b8e56f70-1dd0-5466-abcd-a225fa4ae508,Kaposi sarcoma-associated herpesvirus infection,map05167,https://www.genome.jp/entry/map05167
+3a285eb5-107b-5583-93bb-875d78f7a93e,Legionellosis,map05134,https://www.genome.jp/entry/map05134
+f0cbdabf-680f-5260-aa28-ad318ec04b4a,Leishmaniasis,map05140,https://www.genome.jp/entry/map05140
+e6b1b180-8904-564d-a55c-863f7bb0876a,Leukocyte transendothelial migration,map04670,https://www.genome.jp/entry/map04670
+7ceae974-fffa-580a-bac3-ce3ca77af11d,Linoleic acid metabolism,map00591,https://www.genome.jp/entry/map00591
+4691c126-60aa-56fd-a73d-4efdd1b2c19a,Lipid and atherosclerosis,map05417,https://www.genome.jp/entry/map05417
+1ae39781-9369-5054-bb3a-2d2cd8da5fa4,Long-term depression,map04730,https://www.genome.jp/entry/map04730
+7cb647b1-09a0-50ce-9d9a-b789a62af14f,Long-term potentiation,map04720,https://www.genome.jp/entry/map04720
+e60d093e-7add-527b-84b9-e038132a3f99,Longevity regulating pathway,map04211,https://www.genome.jp/entry/map04211
+7cee01cc-bf2a-55ed-a5b5-e0c6bf1cc412,Lysine degradation,map00310,https://www.genome.jp/entry/map00310
+4c72b1bd-765e-51a7-ad8a-2e5923784795,Lysosome,map04142,https://www.genome.jp/entry/map04142
+10ec327b-1b49-550c-99f9-9773707ac0cd,MAPK signaling pathway,map04010,https://www.genome.jp/entry/map04010
+26dd8639-17d8-58ba-ab26-001612bb332c,Malaria,map05144,https://www.genome.jp/entry/map05144
+ec13bb5c-77e3-5547-9229-5873fa37ee27,Mannose type O-glycan biosynthesis,map00515,https://www.genome.jp/entry/map00515
+0219ed09-ca51-5780-8b06-deb8521cb167,Maturity onset diabetes of the young,map04950,https://www.genome.jp/entry/map04950
+60a4f6ea-7a50-5821-997f-c9ed816a2c04,Measles,map05162,https://www.genome.jp/entry/map05162
+8339d282-c8d2-5398-9859-82468c0d148f,Melanogenesis,map04916,https://www.genome.jp/entry/map04916
+0107f08b-796b-54dd-a521-5f38f144e071,Melanoma,map05218,https://www.genome.jp/entry/map05218
+9aea5447-660b-5d3c-bfbc-50cb49b6db72,Metabolism of xenobiotics by cytochrome P450,map00980,https://www.genome.jp/entry/map00980
+7fa12175-d5f0-5938-a6bb-86d09b33c01c,MicroRNAs in cancer,map05206,https://www.genome.jp/entry/map05206
+dacf6bc9-c331-5c69-91eb-420315b9de29,Mineral absorption,map04978,https://www.genome.jp/entry/map04978
+a833bc78-6d66-5d4d-89d6-b958c2924877,Mismatch repair,map03430,https://www.genome.jp/entry/map03430
+454790c3-5c69-5f4d-91a0-7384f868094e,Mitophagy,Mitophagy,
+62054e4c-9e37-5d1e-b174-6181bc6187bb,Morphine addiction,map05032,https://www.genome.jp/entry/map05032
+7bc8ee63-74ea-54ff-9cf2-02d1372aa8e0,Mucin type O-glycan biosynthesis,map00512,https://www.genome.jp/entry/map00512
+9c911628-d159-5db9-8de1-1058f6886b31,N-Glycan biosynthesis,map00510,https://www.genome.jp/entry/map00510
+b0306947-4c27-5db3-b403-f8f001a51ebd,NF-kappa B signaling pathway,map04064,https://www.genome.jp/entry/map04064
+8fc6e521-9ee6-5db2-9756-ecf305df2791,NOD-like receptor signaling pathway,map04621,https://www.genome.jp/entry/map04621
+da05022c-ab89-5c02-8da6-79b7081f74a1,Natural killer cell mediated cytotoxicity,map04650,https://www.genome.jp/entry/map04650
+3acefbfc-f637-5d3d-9e73-1186565db5b7,Necroptosis,map04217,https://www.genome.jp/entry/map04217
+a9eec93b-d81a-5220-84c2-aff1e2c9ffa1,"Neomycin, kanamycin and gentamicin biosynthesis",map00524,https://www.genome.jp/entry/map00524
+79a5cc86-d9a9-5c56-92c1-71d68159337b,Neuroactive ligand-receptor interaction,map04080,https://www.genome.jp/entry/map04080
+80899a43-7dc3-5326-b79a-b410efbad7b9,Neurotrophin signaling pathway,map04722,https://www.genome.jp/entry/map04722
+c09fb507-dbdb-5ed6-a11f-be1a926b76ec,Neutrophil extracellular trap formation,map04613,https://www.genome.jp/entry/map04613
+f69d4416-68c2-5f7d-ab9e-d340b164e7f2,Nicotinate and nicotinamide metabolism,map00760,https://www.genome.jp/entry/map00760
+31b4002d-a81d-5852-90ac-59100b23d719,Nicotine addiction,map05033,https://www.genome.jp/entry/map05033
+4c99f798-126b-5ade-b517-77930bdc4307,Nitrogen metabolism,map00910,https://www.genome.jp/entry/map00910
+74544353-8637-5da4-b8c6-c631d4f5153d,Non-alcoholic fatty liver disease,map04932,https://www.genome.jp/entry/map04932
+98909bf9-8f5e-526b-843f-e75e2d02434f,Non-homologous end-joining,map03450,https://www.genome.jp/entry/map03450
+cdb14cbc-aa82-59f7-a63e-fb25aa7dc4c7,Non-small cell lung cancer,map05223,https://www.genome.jp/entry/map05223
+8531b95b-4257-5096-b69b-da730aa23915,Notch signaling pathway,map04330,https://www.genome.jp/entry/map04330
+0249f30c-f0f8-57af-a4de-5fcdba8e98a9,Nucleotide excision repair,map03420,https://www.genome.jp/entry/map03420
+77fee6fe-047e-5c57-a405-2d529a77bb60,Olfactory transduction,map04740,https://www.genome.jp/entry/map04740
+5447c6fb-aeb7-5126-8e41-f3fe8f037d55,One carbon pool by folate,map00670,https://www.genome.jp/entry/map00670
+019068cd-8647-5cae-96af-e3ad04073302,Oocyte meiosis,map04114,https://www.genome.jp/entry/map04114
+123d2c28-cda5-5eb1-ad97-d030cfd1140d,Osteoclast differentiation,map04380,https://www.genome.jp/entry/map04380
+09d5f80c-76f7-5fa0-b385-b58e87ba95e8,Other glycan degradation,map00511,https://www.genome.jp/entry/map00511
+d1a8d927-7665-53c5-8c2d-10d8a8b28fea,Other types of O-glycan biosynthesis,map00514,https://www.genome.jp/entry/map00514
+b675ccd9-c7a0-5af9-8ebf-e94c741bde51,Ovarian steroidogenesis,map04913,https://www.genome.jp/entry/map04913
+991e1aef-6ec5-5179-b498-a6a62639b81a,Oxidative phosphorylation,map00190,https://www.genome.jp/entry/map00190
+e0f1df88-2012-5e19-a40a-49d28f7598e6,Oxytocin signaling pathway,map04921,https://www.genome.jp/entry/map04921
+83d35208-7375-5394-bc42-e726351e60a1,PD-L1 expression and PD-1 checkpoint pathway in cancer,map05235,https://www.genome.jp/entry/map05235
+da5c9ffd-5b31-5f13-a727-710db1a45004,PI3K-Akt signaling pathway,map04151,https://www.genome.jp/entry/map04151
+1d22e15a-7aa0-5803-ba34-0da28e59a91b,PPAR signaling pathway,map03320,https://www.genome.jp/entry/map03320
+f4a1183b-4495-552d-9658-9de8480ce72b,Pancreatic cancer,map05212,https://www.genome.jp/entry/map05212
+da3eb4a7-8839-5362-8c84-48b0af507c10,Pancreatic secretion,map04972,https://www.genome.jp/entry/map04972
+93454ef8-c6a4-52b7-a023-af07d72fcfd2,Pantothenate and CoA biosynthesis,map00770,https://www.genome.jp/entry/map00770
+4659320f-3dd6-55e0-bfe0-7a7bcc65b002,"Parathyroid hormone synthesis, secretion and action",map04928,https://www.genome.jp/entry/map04928
+815136d3-fa00-508d-aec5-26473f4ec5c9,Parkinson disease,map05012,https://www.genome.jp/entry/map05012
+b06000b8-d657-5dfe-ada5-5f601c6b30ac,Pathogenic Escherichia coli infection,map05130,https://www.genome.jp/entry/map05130
+6b3072f2-f448-5d49-8896-a6cde83d641e,Pathways in cancer,map05200,https://www.genome.jp/entry/map05200
+0a78c680-7972-5e59-a176-3bc0c91247ba,Pathways of neurodegeneration,Pathways of neurodegeneration,
+5c98e4fe-896c-55ae-b96b-80355a8ffcb3,Pentose and glucuronate interconversions,map00040,https://www.genome.jp/entry/map00040
+2a832147-570b-57b9-820f-68af3a92ec09,Pentose phosphate pathway,map00030,https://www.genome.jp/entry/map00030
+5b25113f-a110-5d31-921d-c049098acd04,Peroxisome,map04146,https://www.genome.jp/entry/map04146
+2d4f11cb-3dd9-5703-bd4f-846be48a8e05,Pertussis,map05133,https://www.genome.jp/entry/map05133
+f359fb43-4126-51e4-813d-9dc9de1d3ba0,Phagosome,map04145,https://www.genome.jp/entry/map04145
+a41354c1-712c-53bc-a2ce-a30c8281d24b,Phenylalanine metabolism,map00360,https://www.genome.jp/entry/map00360
+1211dc4a-a77f-5d7f-a78b-c435db0ab7fa,"Phenylalanine, tyrosine and tryptophan biosynthesis",map00400,https://www.genome.jp/entry/map00400
+8d57b551-f7a8-586a-a1ee-a8c5043cece5,Phosphatidylinositol signaling system,map04070,https://www.genome.jp/entry/map04070
+4bd273cc-a6a7-5571-b6fc-44c69ae27f86,Phospholipase D signaling pathway,map04072,https://www.genome.jp/entry/map04072
+289267a0-c87c-592f-b8a0-8e51fd2c5240,Phosphonate and phosphinate metabolism,map00440,https://www.genome.jp/entry/map00440
+3ad8c8a4-e075-5d1d-9f9e-f81d2474577f,Phototransduction,map04744,https://www.genome.jp/entry/map04744
+b288c7b6-25e9-575e-9e95-8d9193410479,Platelet activation,map04611,https://www.genome.jp/entry/map04611
+019d8095-c2a4-5f5a-84cb-ff715c69192e,Porphyrin and chlorophyll metabolism,Porphyrin and chlorophyll metabolism,
+c4621434-05b4-5a03-928e-e8ba886231a2,Primary bile acid biosynthesis,map00120,https://www.genome.jp/entry/map00120
+fa028f72-bf59-5905-bc80-3bcc47c29b54,Primary immunodeficiency,map05340,https://www.genome.jp/entry/map05340
+162c0f23-2a9c-5bcc-819f-cf5da66b30ec,Prion disease,map05020,https://www.genome.jp/entry/map05020
+3a006c1c-4907-5dba-8e04-95dd7dad9e10,Progesterone-mediated oocyte maturation,map04914,https://www.genome.jp/entry/map04914
+b3151848-4ba4-5b3f-89e4-0623849df21c,Prolactin signaling pathway,map04917,https://www.genome.jp/entry/map04917
+ddff9f2d-94dd-5585-b631-f80bb4607f2a,Propanoate metabolism,map00640,https://www.genome.jp/entry/map00640
+724340c9-da7c-58e4-a629-990b3508e856,Prostate cancer,map05215,https://www.genome.jp/entry/map05215
+a258e248-0c1c-5a07-a54a-37752c767b6a,Proteasome,map03050,https://www.genome.jp/entry/map03050
+c284ae08-1dcb-58e4-92d1-95a29d1bb786,Protein digestion and absorption,map04974,https://www.genome.jp/entry/map04974
+9c136e32-536e-5aa9-aee2-d92fc7c6c9f2,Protein export,map03060,https://www.genome.jp/entry/map03060
+16f461e1-f092-519a-a94c-675bee09329d,Protein processing in endoplasmic reticulum,map04141,https://www.genome.jp/entry/map04141
+9899a5e0-600e-5fe3-b74b-041a5f92a56f,Proteoglycans in cancer,map05205,https://www.genome.jp/entry/map05205
+3c57ccb2-6139-50e7-a972-bded862b582e,Proximal tubule bicarbonate reclamation,map04964,https://www.genome.jp/entry/map04964
+aaf89e0a-8ccc-5bfd-be1b-2bd5479e8c55,Purine metabolism,map00230,https://www.genome.jp/entry/map00230
+4bb33f3a-61c6-5c26-b91b-06bf87b8f555,Pyrimidine metabolism,map00240,https://www.genome.jp/entry/map00240
+38b11feb-2150-51f7-a68c-08a71c6f9366,Pyruvate metabolism,map00620,https://www.genome.jp/entry/map00620
+5a09d1fc-7123-54e2-8e59-baeb742038cf,RIG-I-like receptor signaling pathway,map04622,https://www.genome.jp/entry/map04622
+acb1121f-2871-51a2-9137-32ebaccd7790,RNA degradation,map03018,https://www.genome.jp/entry/map03018
+6a0b3d04-602a-5938-ac27-a35999a4f4eb,RNA polymerase,map03020,https://www.genome.jp/entry/map03020
+f2e49623-16d4-5098-8297-16039e05ea3e,RNA transport,RNA transport,
+3643198f-6114-5743-869e-abbdc78386d7,Rap1 signaling pathway,map04015,https://www.genome.jp/entry/map04015
+3bf9e05a-5630-5372-a2c1-c40a8894905b,Ras signaling pathway,map04014,https://www.genome.jp/entry/map04014
+22f92185-e4be-5df7-934d-ffa5c0097592,Regulation of actin cytoskeleton,map04810,https://www.genome.jp/entry/map04810
+7f9ba187-45de-5172-864c-609b2c0d909f,Regulation of lipolysis in adipocytes,map04923,https://www.genome.jp/entry/map04923
+3452da73-02f3-589d-b724-de9d8ca3079b,Relaxin signaling pathway,map04926,https://www.genome.jp/entry/map04926
+8c494768-df68-5785-a8d9-35ac2ac75240,Renal cell carcinoma,map05211,https://www.genome.jp/entry/map05211
+55115c32-63c6-52cf-9cc5-fd7902612fad,Renin secretion,map04924,https://www.genome.jp/entry/map04924
+84607ad7-27c1-5f1b-a0dd-2d1818ae9944,Renin-angiotensin system,map04614,https://www.genome.jp/entry/map04614
+762d6bea-27de-534a-afac-41dfe3b394eb,Retinol metabolism,map00830,https://www.genome.jp/entry/map00830
+f79e6b44-c947-597a-aa8c-217801525a5e,Retrograde endocannabinoid signaling,map04723,https://www.genome.jp/entry/map04723
+ba9047c7-410c-5dc2-a13f-7ccc8062cc81,Rheumatoid arthritis,map05323,https://www.genome.jp/entry/map05323
+1fdcc7b9-30b1-53a0-86bc-244c1b981278,Riboflavin metabolism,map00740,https://www.genome.jp/entry/map00740
+06c54494-8d25-5e45-9f2d-4c049a134f94,Ribosome,map03010,https://www.genome.jp/entry/map03010
+aef399d5-595a-552d-ace2-cc24c3035928,Ribosome biogenesis in eukaryotes,map03008,https://www.genome.jp/entry/map03008
+9699ac5c-021f-537e-b204-d1d25acb4c89,SNARE interactions in vesicular transport,map04130,https://www.genome.jp/entry/map04130
+ee43ada3-6d44-52e3-9027-d4a96928a518,Salivary secretion,map04970,https://www.genome.jp/entry/map04970
+41eda6a6-6b5f-5c08-9bb0-7db8ad5ddd4a,Salmonella infection,map05132,https://www.genome.jp/entry/map05132
+784f7c5e-4a5e-5db6-b2d8-66af6fa9339c,Selenocompound metabolism,map00450,https://www.genome.jp/entry/map00450
+f7b13c7a-d393-518a-8022-435480afec98,Serotonergic synapse,map04726,https://www.genome.jp/entry/map04726
+d7244f12-8a13-5b3f-9021-555a62a8d566,Shigellosis,map05131,https://www.genome.jp/entry/map05131
+8c611576-fcf0-58a8-9128-27e2bde8f186,Signaling pathways regulating pluripotency of stem cells,map04550,https://www.genome.jp/entry/map04550
+83c3c46f-b385-5719-83c3-d4860f0862da,Small cell lung cancer,map05222,https://www.genome.jp/entry/map05222
+2a451810-8bd3-581e-8ad4-f7a0a1c11b30,Sphingolipid metabolism,map00600,https://www.genome.jp/entry/map00600
+cec66edb-27f0-517a-a6e6-08f871d17c51,Sphingolipid signaling pathway,map04071,https://www.genome.jp/entry/map04071
+319894c8-0e53-5c4c-bc8c-5a2e3a2799c4,Spinocerebellar ataxia,map05017,https://www.genome.jp/entry/map05017
+a9a35e17-244f-5784-ae31-f82a3124fdff,Spliceosome,map03040,https://www.genome.jp/entry/map03040
+7eeaa803-ccd4-56c2-ae2b-289ceb1bc63b,Staphylococcus aureus infection,map05150,https://www.genome.jp/entry/map05150
+3f430793-b3b8-5edc-bb27-56e89a18a569,Starch and sucrose metabolism,map00500,https://www.genome.jp/entry/map00500
+0f441cd7-efcf-53e9-9c28-6b008388eb5f,Steroid biosynthesis,map00100,https://www.genome.jp/entry/map00100
+8afe6c89-2dcd-5e0c-b5eb-657e587f249e,Steroid hormone biosynthesis,map00140,https://www.genome.jp/entry/map00140
+2c57dad3-22ed-5c2d-8756-a3f61828ef21,Sulfur metabolism,map00920,https://www.genome.jp/entry/map00920
+c9b65cb7-1efd-585b-baa9-724e93b0b205,Sulfur relay system,map04122,https://www.genome.jp/entry/map04122
+cbb25272-3ddd-5479-b330-760d547dc216,Synaptic vesicle cycle,map04721,https://www.genome.jp/entry/map04721
+24e55cda-4fd3-5525-b5b0-8af3fe469696,Synthesis and degradation of ketone bodies,Synthesis and degradation of ketone bodies,
+7b98302d-6412-5e85-b614-34324a78faf0,Systemic lupus erythematosus,map05322,https://www.genome.jp/entry/map05322
+f8cc7a01-7855-5373-9597-1bf89e59e08f,T cell receptor signaling pathway,map04660,https://www.genome.jp/entry/map04660
+45a1e2ce-1c62-5b40-bfdc-6c89024446fd,TGF-beta signaling pathway,map04350,https://www.genome.jp/entry/map04350
+6123424b-362b-5cab-8df9-53b1bf489004,TNF signaling pathway,map04668,https://www.genome.jp/entry/map04668
+fad944d4-b7ba-5647-a573-11a1954c9fa9,Taste transduction,map04742,https://www.genome.jp/entry/map04742
+a4631c2c-1792-53f9-bc5d-07fc631213d3,Taurine and hypotaurine metabolism,map00430,https://www.genome.jp/entry/map00430
+86aa3adf-20c8-514b-bde2-47ad27bb56a6,Terpenoid backbone biosynthesis,map00900,https://www.genome.jp/entry/map00900
+e54fdeae-490d-55fe-9c9b-bf367ca5dc54,Th1 and Th2 cell differentiation,map04658,https://www.genome.jp/entry/map04658
+40aac2c0-836b-5801-8f89-24122112be05,Th17 cell differentiation,map04659,https://www.genome.jp/entry/map04659
+071e3c9c-935d-5972-ba85-fd8bc2f0750b,Thermogenesis,map04714,https://www.genome.jp/entry/map04714
+5d4d17c5-9c70-5e9f-b885-3c86e91451dd,Thiamine metabolism,map00730,https://www.genome.jp/entry/map00730
+724d024f-2667-537b-98a5-da0c06cf7a84,Thyroid cancer,map05216,https://www.genome.jp/entry/map05216
+40fe5665-17ee-5ffc-bfa6-c76a89039849,Thyroid hormone signaling pathway,map04919,https://www.genome.jp/entry/map04919
+104715dd-9230-56a4-aa29-d41589bc556d,Thyroid hormone synthesis,map04918,https://www.genome.jp/entry/map04918
+07745d16-52c7-58ae-b397-374c0505ebdc,Tight junction,map04530,https://www.genome.jp/entry/map04530
+2ecf2eea-ea12-53ab-9e1f-57e5560e0dd6,Toll-like receptor signaling pathway,map04620,https://www.genome.jp/entry/map04620
+b1a083f4-bb6c-5094-8f25-727b18d0dcf9,Toxoplasmosis,map05145,https://www.genome.jp/entry/map05145
+d83b4ea3-a688-56cb-9b7d-1eb44577ad6d,Transcriptional misregulation in cancer,map05202,https://www.genome.jp/entry/map05202
+f3747e17-9085-5d8f-b6ff-3ec65818672a,Tryptophan metabolism,map00380,https://www.genome.jp/entry/map00380
+90a18b34-6974-5d79-9f2d-f60ce338fee7,Tuberculosis,map05152,https://www.genome.jp/entry/map05152
+e10f1acc-5996-5aff-9558-79875901097c,Type I diabetes mellitus,map04940,https://www.genome.jp/entry/map04940
+0390c912-bd63-5303-9e47-5951299efbff,Type II diabetes mellitus,map04930,https://www.genome.jp/entry/map04930
+ec5e6e92-98e8-55be-8a57-26edfccc4c8f,Tyrosine metabolism,map00350,https://www.genome.jp/entry/map00350
+67c0cba8-fac5-50b4-b9b0-3c71622cd978,Ubiquinone and other terpenoid-quinone biosynthesis,map00130,https://www.genome.jp/entry/map00130
+7dee6491-f715-5f56-9d16-d08dd5413626,Ubiquitin mediated proteolysis,map04120,https://www.genome.jp/entry/map04120
+bd7c701b-2103-5be9-b7f1-7e0d2b3f8499,VEGF signaling pathway,map04370,https://www.genome.jp/entry/map04370
+3e271e2b-527e-5b2c-ad7b-d4e1e0024219,"Valine, leucine and isoleucine degradation",map00280,https://www.genome.jp/entry/map00280
+b7c989ef-337d-532e-803a-d18df1a3abd2,Various types of N-glycan biosynthesis,map00513,https://www.genome.jp/entry/map00513
+6728d11d-4b1e-5909-8b67-2f8300b9acc8,Vascular smooth muscle contraction,map04270,https://www.genome.jp/entry/map04270
+99dc6870-9d4e-52d3-a5cd-53be1681df1e,Vasopressin-regulated water reabsorption,map04962,https://www.genome.jp/entry/map04962
+28d4349e-3138-59aa-a69b-e54e30a5b6fa,Vibrio cholerae infection,map05110,https://www.genome.jp/entry/map05110
+b1e76a18-a748-5f16-ac7c-bb7126945ad4,Viral carcinogenesis,map05203,https://www.genome.jp/entry/map05203
+44c8499f-745e-5aae-8dad-70fafaefa78b,Viral myocarditis,map05416,https://www.genome.jp/entry/map05416
+a3e78c9b-65dc-576a-a052-2c437032ab60,Viral protein interaction with cytokine and cytokine receptor,map04061,https://www.genome.jp/entry/map04061
+58640af9-22fa-539e-9374-24dc41d87f9b,Vitamin B6 metabolism,map00750,https://www.genome.jp/entry/map00750
+25488473-0bd0-5d81-9451-0f16c8c306ea,Vitamin digestion and absorption,map04977,https://www.genome.jp/entry/map04977
+1c8af12e-50a9-5af0-ba4a-2b92e5647875,Wnt signaling pathway,map04310,https://www.genome.jp/entry/map04310
+1d3f7242-9dad-5bfc-ad1b-13700dfc25b6,Yersinia infection,map05135,https://www.genome.jp/entry/map05135
+d61ead42-da30-5c46-a480-68d0ce82719f,alpha-Linolenic acid metabolism,map00592,https://www.genome.jp/entry/map00592
+c3bb5a10-829e-5fd8-b274-00ac43606429,beta-Alanine metabolism,map00410,https://www.genome.jp/entry/map00410
+0c6004f7-b834-55ca-8327-79c95ba462e8,cAMP signaling pathway,map04024,https://www.genome.jp/entry/map04024
+bade5c7f-07a3-54b4-844b-fe2cbb0d0186,cGMP-PKG signaling pathway,map04022,https://www.genome.jp/entry/map04022
+33f4af34-1544-5cd2-affa-21909e0c9594,mRNA surveillance pathway,map03015,https://www.genome.jp/entry/map03015
+a6f1444a-dffc-5287-98e1-deaac09b0639,mTOR signaling pathway,map04150,https://www.genome.jp/entry/map04150
+875b24f5-b27d-56c1-8e94-78abffd9f550,p53 signaling pathway,map04115,https://www.genome.jp/entry/map04115
