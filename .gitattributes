@@ -1,1 +1,2 @@
 data/term_gene_edge/*.Gene.edges.csv filter=lfs diff=lfs merge=lfs -text
+data/compact_kg.json filter=lfs diff=lfs merge=lfs -text
